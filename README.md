@@ -4,7 +4,7 @@
 # mathR
 <img height='200' align='right' src='img/mathR.png'>
 
-basic math functions
+basic math functions.
 
 
 
@@ -12,9 +12,9 @@ basic math functions
 
 ```
 remotes::install_github('PythonCoderUnicorn/mathR')
-
-# or 
-
+```
+or
+```
 devtools::install_github("PythonCoderUnicorn/mathR")
 ```
 
