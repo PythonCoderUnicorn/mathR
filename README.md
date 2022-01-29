@@ -3,6 +3,10 @@ basic math functions
 
 ```
 remotes::install_github('PythonCoderUnicorn/mathR')
+
+# or 
+
+devtools::install_github("PythonCoderUnicorn/mathR")
 ```
 
 load the library
