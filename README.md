@@ -2,9 +2,11 @@
 
 
 # mathR
+<img height='200' align='right' src='img/mathR.png'>
+
 basic math functions
 
-<img height='200' align='right' src='img/mathR.png'>
+
 
 
 
