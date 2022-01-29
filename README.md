@@ -1,8 +1,8 @@
 
 
-
-# mathR
 <img height='200' align='right' src='img/mathR.png'>
+# mathR
+
 
 basic math functions.
 
