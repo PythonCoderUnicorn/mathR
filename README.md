@@ -1,3 +1,6 @@
+
+<img height='250' align='right' src='./img/mathR.png'>
+
 # mathR
 basic math functions
 
