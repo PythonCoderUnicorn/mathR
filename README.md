@@ -1,5 +1,5 @@
 
-<img height='250' align='right' src='img/mathR.png'>
+<img height='250' src='img/mathR.png'>
 
 # mathR
 basic math functions
