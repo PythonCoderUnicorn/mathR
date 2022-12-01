@@ -5,7 +5,7 @@
 # mathR
 
 
-A basic math function library.
+A basic math function library
 
 
 
